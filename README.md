@@ -22,6 +22,9 @@ Tras descargar/clonar el proyecto, tendrás que:
 2. Ejecutar **composer install** para que se cree la carpeta **vendor**.
 3. Ejecutar **npm install && npm run dev** para instalar todos los paquetes del proyecto. 
 
+# Esquema E/R de la base de datos
+<p><img src="https://raw.githubusercontent.com/bilbobolson/2DAW_Tableros/master/ER_tableros.png" width="500"></p>
+
 ## Sobre Laravel
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
